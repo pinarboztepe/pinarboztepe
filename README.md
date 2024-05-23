@@ -1,5 +1,8 @@
-### Hi there 👋
-I'm passionate about the intersection of tech and music!
+## Hi, I'm Pinar 👋
+### I'm a full-stack developer based in London.
+
+I love blending creativity with technology. When I'm not coding, I'm drumming, painting, sculpting or staying active with sports. Always exploring new challenges and pushing boundaries!
+
 <!--
 **pinarboztepe/pinarboztepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
